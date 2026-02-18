@@ -75,7 +75,7 @@ console.timeEnd("Greedy");
 
 // DO NOT RUN bruteForce(bigTasks)
 //
-bruteForce(bigTasks)
+// bruteForce(bigTasks)
 // It will not terminate in reasonable time
 
 
@@ -129,7 +129,7 @@ Brute-force → returns 1 (slow)
 
 2️⃣ All tasks non-overlapping
 [{ start: 1, end: 2 }, { start: 2, end: 3 }, ...]
-Greedy → returns all
+// Greedy → returns all
 Brute-force → returns all (very slow)
 
 
